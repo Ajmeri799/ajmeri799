@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently  working on something cool projects.<br>I'm currently learning JavaScript.<br>fun fact: I'm just focusing on being productive instead of busy:)<br><br>
+. I'm currently  working on something cool projects.<br>. I'm currently learning JavaScript.<br>. fun fact: I'm just focusing on being productive instead of busy:)<br><br>
 
 
 ## 🌐 Socials:
