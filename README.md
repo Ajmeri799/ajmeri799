@@ -2,8 +2,7 @@
 
 
 <div align="center">
-  <img src="https://img.freepik.com/premium-vector/cute-little-girl-with-laptop-vector-illustration-cartoon-style_1142-67510.jpg" />
-  
+<!--   <img src="/>   -->
 </div>
 
 ###
